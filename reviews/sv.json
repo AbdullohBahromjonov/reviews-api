@@ -1,0 +1,35 @@
+{
+  "language": "sv",
+  "name": "Svenska",
+  "count": 4,
+  "reviews": [
+    {
+      "id": 1,
+      "rating": 5,
+      "title": "Jag köpte en riktig hörapparat. Den här appen gör mer för mig.",
+      "body": "Jag köpte en hörapparat. Den gjorde inte så stor skillnad. Sedan hittade jag den här appen, lade ett par dagar på inställningarna, och det var det — det är min hörapparat. Funkar utmärkt med mina Bose-hörlurar.",
+      "author": "[Namn]"
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "title": "Morfar hör igen — med AirPods han redan hade.",
+      "body": "Morfar hörde dåligt. Jag lade in det här i hans telefon och nu använder han bara sina AirPods som hörapparat. Stort tack till utvecklarna för att de gjort något som verkligen förändrar folks liv.",
+      "author": "[Namn]"
+    },
+    {
+      "id": 3,
+      "rating": 5,
+      "title": "Köpte den för att höra bättre. Hittade tinnitusfunktionen av en slump.",
+      "body": "Jag köpte appen för en lätt hörselnedsättning och använder förstärkningen varje dag. En dag såg jag att den också har en funktion för tinnitusterapi — en enorm lättnad, eftersom jag också har ringningar i öronen. Nu använder jag den varje gång ringningarna kommer tillbaka.",
+      "author": "[Namn]"
+    },
+    {
+      "id": 4,
+      "rating": 4,
+      "title": "Några månader senare och den funkar fortfarande bra.",
+      "body": "Jag har använt den i några månader nu och den funkar bra. Det krånglade lite idag när jag förnyade — betalningen gick igenom, men sedan stod det helt plötsligt att min prenumeration hade gått ut, trots att jag betalat för tre månader. Tror att jag fick ordning på det. Vi får se!",
+      "author": "[Namn]"
+    }
+  ]
+}

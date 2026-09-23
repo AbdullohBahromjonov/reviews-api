@@ -1,0 +1,56 @@
+{
+  "default": "en",
+  "count": 10,
+  "languages": [
+    {
+      "language": "de",
+      "name": "Deutsch",
+      "url": "reviews/de.json"
+    },
+    {
+      "language": "el",
+      "name": "Ελληνικά",
+      "url": "reviews/el.json"
+    },
+    {
+      "language": "en",
+      "name": "English",
+      "url": "reviews/en.json"
+    },
+    {
+      "language": "es",
+      "name": "Español",
+      "url": "reviews/es.json"
+    },
+    {
+      "language": "fr",
+      "name": "Français",
+      "url": "reviews/fr.json"
+    },
+    {
+      "language": "ja",
+      "name": "日本語",
+      "url": "reviews/ja.json"
+    },
+    {
+      "language": "nl",
+      "name": "Nederlands",
+      "url": "reviews/nl.json"
+    },
+    {
+      "language": "sv",
+      "name": "Svenska",
+      "url": "reviews/sv.json"
+    },
+    {
+      "language": "vi",
+      "name": "Tiếng Việt",
+      "url": "reviews/vi.json"
+    },
+    {
+      "language": "zh-Hans",
+      "name": "简体中文",
+      "url": "reviews/zh-Hans.json"
+    }
+  ]
+}

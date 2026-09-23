@@ -8,7 +8,7 @@
       :root { color-scheme: light dark; }
       body {
         font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-        max-width: 42rem;
+        max-width: 44rem;
         margin: 0 auto;
         padding: 3rem 1rem;
       }
@@ -19,13 +19,43 @@
         border-radius: 8px;
         overflow-x: auto;
       }
+      ul { padding-left: 1.2rem; }
+      li { margin: 0.2rem 0; }
       a { color: inherit; }
+      #preview { white-space: pre-wrap; }
     </style>
   </head>
   <body>
     <h1>Reviews API</h1>
-    <p>A read-only JSON endpoint returning app reviews.</p>
-    <pre><code>GET <a href="./reviews.json">reviews.json</a></code></pre>
-    <pre><code>curl -s https://AbdullohBahromjonov.github.io/reviews-api/reviews.json</code></pre>
+    <p>Read-only app reviews, one JSON file per language.</p>
+
+    <pre><code>GET reviews/{lang}.json</code></pre>
+
+    <h2>Languages</h2>
+    <ul id="languages"></ul>
+
+    <h2>Pick by browser language</h2>
+    <pre><code id="preview">loading…</code></pre>
+
+    <script type="module">
+      const DEFAULT_LANG = 'en';
+      const index = await fetch('./reviews/index.json').then((r) => r.json());
+
+      const list = document.getElementById('languages');
+      list.innerHTML = index.languages
+        .map((l) => `<li><a href="./${l.url}"><code>${l.language}</code> — ${l.name}</a></li>`)
+        .join('');
+
+      // Static hosting can't negotiate Accept-Language, so the client picks the file.
+      const tags = new Map(index.languages.map((l) => [l.language.toLowerCase(), l.language]));
+      tags.set('zh', 'zh-Hans');
+      const resolve = (tag) =>
+        tags.get(tag.toLowerCase()) ?? tags.get(tag.toLowerCase().split('-')[0]) ?? null;
+
+      const lang = navigator.languages.map(resolve).find(Boolean) ?? DEFAULT_LANG;
+      const data = await fetch(`./reviews/${lang}.json`).then((r) => r.json());
+      document.getElementById('preview').textContent =
+        `reviews/${lang}.json\n\n${data.reviews[0].title}`;
+    </script>
   </body>
 </html>
