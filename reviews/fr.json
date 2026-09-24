@@ -6,29 +6,29 @@
     {
       "id": 1,
       "rating": 5,
-      "title": "J'ai acheté un vrai appareil auditif. Cette appli m'apporte plus.",
-      "body": "J'ai acheté un appareil auditif. Il ne changeait pas grand-chose. J'ai trouvé cette appli, passé deux jours à régler les paramètres, et voilà — c'est ça, mon appareil auditif. Ça marche très bien avec mon casque Bose.",
+      "title": "« J'ai acheté un vrai appareil auditif. Cette appli m'apporte plus. »",
+      "body": "« J'ai acheté un appareil auditif. Il ne changeait pas grand-chose. J'ai trouvé cette appli, passé deux jours à régler les paramètres, et voilà — c'est ça, mon appareil auditif. Ça marche très bien avec mon casque Bose. »",
       "author": "Wolfgang"
     },
     {
       "id": 2,
       "rating": 5,
-      "title": "Mon grand-père entend à nouveau — avec les AirPods qu'il avait déjà.",
-      "body": "Mon grand-père entendait mal. J'ai installé ça sur son téléphone et maintenant il utilise simplement ses AirPods comme appareil auditif. Un grand merci aux développeurs d'avoir créé quelque chose qui change vraiment la vie des gens.",
+      "title": "« Mon grand-père entend à nouveau — avec les AirPods qu'il avait déjà. »",
+      "body": "« Mon grand-père entendait mal. J'ai installé ça sur son téléphone et maintenant il utilise simplement ses AirPods comme appareil auditif. Un grand merci aux développeurs d'avoir créé quelque chose qui change vraiment la vie des gens. »",
       "author": "Eleni"
     },
     {
       "id": 3,
       "rating": 5,
-      "title": "Achetée pour mieux entendre. J'ai découvert la fonction acouphènes par hasard.",
-      "body": "J'ai acheté l'appli pour une légère perte auditive et j'utilise l'amplification tous les jours. Puis un jour, j'ai remarqué qu'elle propose aussi une thérapie contre les acouphènes — un énorme soulagement, car j'ai aussi des sifflements dans les oreilles. Maintenant je l'utilise dès que le sifflement revient.",
+      "title": "« Achetée pour mieux entendre. J'ai découvert la fonction acouphènes par hasard. »",
+      "body": "« J'ai acheté l'appli pour une légère perte auditive et j'utilise l'amplification tous les jours. Puis un jour, j'ai remarqué qu'elle propose aussi une thérapie contre les acouphènes — un énorme soulagement, car j'ai aussi des sifflements dans les oreilles. Maintenant je l'utilise dès que le sifflement revient. »",
       "author": "Robert"
     },
     {
       "id": 4,
       "rating": 4,
-      "title": "Quelques mois plus tard, ça marche toujours très bien.",
-      "body": "Je l'utilise depuis quelques mois et ça marche très bien. Un petit souci aujourd'hui au moment du renouvellement — le paiement est passé, puis sans raison l'appli m'a dit que mon abonnement avait expiré, alors que j'avais payé trois mois. Je crois que c'est réglé. On verra !",
+      "title": "« Quelques mois plus tard, ça marche toujours très bien. »",
+      "body": "« Je l'utilise depuis quelques mois et ça marche très bien. Un petit souci aujourd'hui au moment du renouvellement — le paiement est passé, puis sans raison l'appli m'a dit que mon abonnement avait expiré, alors que j'avais payé trois mois. Je crois que c'est réglé. On verra ! »",
       "author": "Keiko"
     }
   ]
