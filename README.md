@@ -12,6 +12,7 @@ Base URL: `https://abdullohbahromjonov.github.io/reviews-api/`
 GET reviews/{lang}.json    reviews in one language
 GET reviews/index.json     the list of available languages
 GET reviews.json           English, kept as the default
+GET avatars/{author}.png   reviewer photo, 50x50 PNG
 ```
 
 Responses are `application/json; charset=utf-8` with `Access-Control-Allow-Origin: *`,
@@ -35,7 +36,9 @@ so they can be fetched straight from a browser or an app.
 ### Response shape
 
 Every language returns the same structure, with matching `id` and `rating` values, so
-the reviews line up across locales.
+the reviews line up across locales. `author` and `avatar` are the same in every language:
+the photo lives at `avatars/{author}.png` and `avatar` is its absolute URL, so it resolves
+no matter where the JSON was fetched from.
 
 ```json
 {
@@ -48,7 +51,8 @@ the reviews line up across locales.
       "rating": 5,
       "title": "…",
       "body": "…",
-      "author": "[Nom]"
+      "author": "[Nom]",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/[Nom].png"
     }
   ]
 }
@@ -103,4 +107,5 @@ It also accepts region subtags (`de-AT` resolves to `de`) and `zh` (resolves to
 Edit the file under `reviews/` and push to `main`; GitHub Pages redeploys in about a
 minute. Keep `count` in sync with the number of entries, keep the `id` values aligned
 across languages, and copy `reviews/en.json` over `reviews.json` when English changes.
+A new reviewer needs a 50x50 PNG at `avatars/<author>.png` and an `avatar` URL pointing at it.
 Adding a language means adding `reviews/<tag>.json` and an entry in `reviews/index.json`.

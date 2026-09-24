@@ -8,28 +8,32 @@
       "rating": 5,
       "title": "“I bought a real hearing aid. This app does more for me.”",
       "body": "“Bought a hearing aid. It didn't do much. Found this app, spent a couple days on the settings, and that was it — my hearing aid. Works great with my Bose over-ears.”",
-      "author": "Wolfgang"
+      "author": "Wolfgang",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Wolfgang.png"
     },
     {
       "id": 2,
       "rating": 5,
       "title": "“My grandpa hears again — with the AirPods he already had.”",
       "body": "“Grandpa had trouble hearing. I put this on his phone and now he just uses his AirPods as a hearing aid. Big thanks to the devs for making something that actually changes people's lives.”",
-      "author": "Eleni"
+      "author": "Eleni",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Eleni.png"
     },
     {
       "id": 3,
       "rating": 5,
       "title": "“Bought it to hear better. Found tinnitus relief too.”",
       "body": "“Bought the app for mild hearing loss and use the amplification every day. Then I noticed it also has tinnitus therapy — a huge relief, since I get ringing too. I use it whenever it comes back.”",
-      "author": "Robert"
+      "author": "Robert",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Robert.png"
     },
     {
       "id": 4,
       "rating": 4,
       "title": "“Few months in and it still works great.”",
       "body": "“Been using this a few months and it works great. One hiccup when I renewed — the payment went through, then it said my subscription had expired. Think I got it sorted!”",
-      "author": "Keiko"
+      "author": "Keiko",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Keiko.png"
     }
   ]
 }

@@ -8,28 +8,32 @@
       "rating": 5,
       "title": "«Compré un audífono de verdad. Esta app hace más por mí.»",
       "body": "«Compré un audífono. No servía de mucho. Encontré esta app, pasé un par de días ajustando la configuración y listo — ese es mi audífono. Funciona muy bien con mis Bose de copa.»",
-      "author": "Wolfgang"
+      "author": "Wolfgang",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Wolfgang.png"
     },
     {
       "id": 2,
       "rating": 5,
       "title": "«Mi abuelo vuelve a oír, con los AirPods que ya tenía.»",
       "body": "«Mi abuelo oía mal. Le instalé esto en el teléfono y ahora usa sus AirPods como audífono. Mil gracias a los desarrolladores por hacer algo que de verdad cambia la vida de la gente.»",
-      "author": "Eleni"
+      "author": "Eleni",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Eleni.png"
     },
     {
       "id": 3,
       "rating": 5,
       "title": "«La compré para oír mejor. Y descubrí lo del tinnitus.»",
       "body": "«Compré la app por una pérdida auditiva leve y uso la amplificación a diario. Luego vi que también tiene terapia para el tinnitus — un alivio enorme, porque a mí también me zumban los oídos.»",
-      "author": "Robert"
+      "author": "Robert",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Robert.png"
     },
     {
       "id": 4,
       "rating": 4,
       "title": "«Varios meses después y sigue funcionando muy bien.»",
       "body": "«La llevo usando unos meses y funciona muy bien. Hoy tuve un problemilla al renovar: el pago se hizo y de repente dijo que mi suscripción había caducado. Creo que ya está.»",
-      "author": "Keiko"
+      "author": "Keiko",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Keiko.png"
     }
   ]
 }

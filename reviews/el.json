@@ -8,28 +8,32 @@
       "rating": 5,
       "title": "«Αγόρασα κανονικό ακουστικό βαρηκοΐας. Αυτή η εφαρμογή με βοηθά πιο πολύ.»",
       "body": "«Αγόρασα ακουστικό βαρηκοΐας. Δεν έκανε μεγάλη διαφορά. Μετά βρήκα αυτή την εφαρμογή, πέρασα δύο μέρες με τις ρυθμίσεις — αυτό είναι πια το ακουστικό μου. Τέλεια με τα Bose μου.»",
-      "author": "Wolfgang"
+      "author": "Wolfgang",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Wolfgang.png"
     },
     {
       "id": 2,
       "rating": 5,
       "title": "«Ο παππούς μου ακούει ξανά — με τα AirPods που είχε ήδη.»",
       "body": "«Ο παππούς μου δεν άκουγε καλά. Του το έβαλα στο κινητό και τώρα χρησιμοποιεί τα AirPods του σαν ακουστικό βαρηκοΐας. Ευχαριστώ τους προγραμματιστές για κάτι τόσο χρήσιμο.»",
-      "author": "Eleni"
+      "author": "Eleni",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Eleni.png"
     },
     {
       "id": 3,
       "rating": 5,
       "title": "«Την αγόρασα για να ακούω καλύτερα. Βρήκα και βοήθεια για τις εμβοές.»",
       "body": "«Αγόρασα την εφαρμογή για μικρή απώλεια ακοής και χρησιμοποιώ την ενίσχυση κάθε μέρα. Μετά είδα ότι έχει και θεραπεία για τις εμβοές — τεράστια ανακούφιση.»",
-      "author": "Robert"
+      "author": "Robert",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Robert.png"
     },
     {
       "id": 4,
       "rating": 4,
       "title": "«Μερικοί μήνες μετά και δουλεύει ακόμα τέλεια.»",
       "body": "«Τη χρησιμοποιώ μερικούς μήνες και δουλεύει τέλεια. Σήμερα είχα ένα θέμα με την ανανέωση — η πληρωμή πέρασε, και μετά μου είπε ότι η συνδρομή έληξε. Νομίζω λύθηκε!»",
-      "author": "Keiko"
+      "author": "Keiko",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Keiko.png"
     }
   ]
 }

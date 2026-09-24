@@ -8,28 +8,32 @@
       "rating": 5,
       "title": "« J'ai acheté un vrai appareil auditif. Cette appli m'apporte plus. »",
       "body": "« J'ai acheté un appareil auditif. Il ne changeait pas grand-chose. J'ai trouvé cette appli, passé deux jours à régler les paramètres — c'est ça, mon appareil auditif. Parfait avec mon casque Bose. »",
-      "author": "Wolfgang"
+      "author": "Wolfgang",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Wolfgang.png"
     },
     {
       "id": 2,
       "rating": 5,
       "title": "« Mon grand-père entend à nouveau — avec les AirPods qu'il avait déjà. »",
       "body": "« Mon grand-père entendait mal. J'ai installé ça sur son téléphone et il utilise maintenant ses AirPods comme appareil auditif. Un grand merci aux développeurs pour cette idée. »",
-      "author": "Eleni"
+      "author": "Eleni",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Eleni.png"
     },
     {
       "id": 3,
       "rating": 5,
       "title": "« Achetée pour mieux entendre. La fonction acouphènes en bonus. »",
       "body": "« J'ai acheté l'appli pour une légère perte auditive et j'utilise l'amplification tous les jours. Puis j'ai vu qu'elle propose aussi une thérapie contre les acouphènes — un énorme soulagement. »",
-      "author": "Robert"
+      "author": "Robert",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Robert.png"
     },
     {
       "id": 4,
       "rating": 4,
       "title": "« Quelques mois plus tard, ça marche toujours très bien. »",
       "body": "« Je l'utilise depuis quelques mois et ça marche très bien. Un petit souci au renouvellement — le paiement est passé, puis l'appli a dit que mon abonnement avait expiré. C'est réglé, je crois ! »",
-      "author": "Keiko"
+      "author": "Keiko",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Keiko.png"
     }
   ]
 }

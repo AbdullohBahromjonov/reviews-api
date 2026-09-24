@@ -8,28 +8,32 @@
       "rating": 5,
       "title": "„Ich habe ein echtes Hörgerät gekauft. Diese App bringt mir mehr.“",
       "body": "„Ich habe ein Hörgerät gekauft. Es hat nicht viel gebracht. Dann fand ich diese App, ein paar Tage an den Einstellungen gefeilt — das ist jetzt mein Hörgerät. Super mit meinem Bose-Kopfhörer.“",
-      "author": "Wolfgang"
+      "author": "Wolfgang",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Wolfgang.png"
     },
     {
       "id": 2,
       "rating": 5,
       "title": "„Mein Opa hört wieder — mit den AirPods, die er schon hatte.“",
       "body": "„Mein Opa hat schlecht gehört. Ich habe ihm das aufs Handy geladen, und jetzt nutzt er einfach seine AirPods als Hörgerät. Großen Dank an die Entwickler für so etwas Nützliches.“",
-      "author": "Eleni"
+      "author": "Eleni",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Eleni.png"
     },
     {
       "id": 3,
       "rating": 5,
       "title": "„Gekauft, um besser zu hören. Tinnitus-Hilfe gratis dazu.“",
       "body": "„Ich habe die App wegen leichter Hörminderung gekauft und nutze die Verstärkung täglich. Dann sah ich, dass sie auch eine Tinnitus-Therapie hat — eine riesige Erleichterung.“",
-      "author": "Robert"
+      "author": "Robert",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Robert.png"
     },
     {
       "id": 4,
       "rating": 4,
       "title": "„Ein paar Monate später läuft es noch immer super.“",
       "body": "„Ich nutze die App seit ein paar Monaten und sie läuft super. Beim Verlängern gab es einen Aussetzer — die Zahlung ging durch, dann hieß es, mein Abo sei abgelaufen. Ist wohl geklärt!“",
-      "author": "Keiko"
+      "author": "Keiko",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Keiko.png"
     }
   ]
 }

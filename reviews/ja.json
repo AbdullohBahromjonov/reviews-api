@@ -8,28 +8,32 @@
       "rating": 5,
       "title": "「本物の補聴器を買いました。でもこのアプリのほうが役に立っています。」",
       "body": "「補聴器を買いましたが、あまり効果がありませんでした。そこでこのアプリを見つけ、2日ほど設定を詰めたら、それで十分——これが私の補聴器です。Bose のヘッドホンでとてもよく聞こえます。」",
-      "author": "Wolfgang"
+      "author": "Wolfgang",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Wolfgang.png"
     },
     {
       "id": 2,
       "rating": 5,
       "title": "「祖父がまた聞こえるようになりました——もともと持っていた AirPods で。」",
       "body": "「祖父は耳が聞こえにくくなっていました。スマホにこれを入れたら、今は AirPods をそのまま補聴器として使っています。人の生活を本当に変えるものを作ってくれた開発者の方々に感謝します。」",
-      "author": "Eleni"
+      "author": "Eleni",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Eleni.png"
     },
     {
       "id": 3,
       "rating": 5,
       "title": "「よく聞こえるように買ったら、偶然に耳鳴りの機能を見つけました。」",
       "body": "「軽い難聴のためにこのアプリを買って、音を大きくする機能を毎日使っています。あるとき耳鳴りのセラピー機能もあると気づきました——私も耳鳴りがあるので本当に助かっています。」",
-      "author": "Robert"
+      "author": "Robert",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Robert.png"
     },
     {
       "id": 4,
       "rating": 4,
       "title": "「数か月使っていますが、今も快調です。」",
       "body": "「数か月使っていますが、今も快調です。今日、更新のときに少しトラブルがありました——支払いは通ったのに、突然期限が切れたと表示されたのです。たぶん解決できました！」",
-      "author": "Keiko"
+      "author": "Keiko",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Keiko.png"
     }
   ]
 }

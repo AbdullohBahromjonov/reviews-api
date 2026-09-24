@@ -8,28 +8,32 @@
       "rating": 5,
       "title": "“Ik kocht een echt hoortoestel. Deze app doet meer voor mij.”",
       "body": "“Ik kocht een hoortoestel. Het hielp niet veel. Toen vond ik deze app, sleutelde een paar dagen aan de instellingen, en dat was het — dat is mijn hoortoestel. Werkt prima met mijn Bose.”",
-      "author": "Wolfgang"
+      "author": "Wolfgang",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Wolfgang.png"
     },
     {
       "id": 2,
       "rating": 5,
       "title": "“Mijn opa hoort weer — met de AirPods die hij al had.”",
       "body": "“Mijn opa hoorde slecht. Ik heb dit op zijn telefoon gezet en nu gebruikt hij simpelweg zijn AirPods als hoortoestel. Veel dank aan de ontwikkelaars voor iets dat het leven van mensen echt verandert.”",
-      "author": "Eleni"
+      "author": "Eleni",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Eleni.png"
     },
     {
       "id": 3,
       "rating": 5,
       "title": "“Gekocht om beter te horen. Tinnitusfunctie als bonus.”",
       "body": "“Ik kocht de app voor wat gehoorverlies en gebruik de versterking elke dag. Toen zag ik dat er ook tinnitustherapie in zit — een enorme verlichting, want ik heb ook oorsuizen.”",
-      "author": "Robert"
+      "author": "Robert",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Robert.png"
     },
     {
       "id": 4,
       "rating": 4,
       "title": "“Een paar maanden later werkt het nog steeds goed.”",
       "body": "“Ik gebruik dit nu een paar maanden en het werkt goed. Bij het verlengen had ik één hapering — de betaling lukte, en toen zei hij dat mijn abonnement verlopen was. Het is nu opgelost!”",
-      "author": "Keiko"
+      "author": "Keiko",
+      "avatar": "https://abdullohbahromjonov.github.io/reviews-api/avatars/Keiko.png"
     }
   ]
 }
